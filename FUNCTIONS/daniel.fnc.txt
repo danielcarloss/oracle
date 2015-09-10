@@ -1,0 +1,9 @@
+create or replace function fun_teste is
+return varchar2
+
+begin
+
+null;
+
+
+end;
